@@ -1,0 +1,10 @@
+numpy
+pandas
+tensorflow
+keras
+xgboost
+streamlit
+nltk
+pickle
+re
+string
